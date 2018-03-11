@@ -1,0 +1,28 @@
+[
+  {
+    "value": "ice cream",
+    "synonyms": [
+      "frozen",
+      "ice candy",
+      "ice",
+      "ice cone",
+      "softy"
+    ]
+  },
+  {
+    "value": "waffles",
+    "synonyms": [
+      "waffles",
+      "waafal",
+      "vafal",
+      "vafals"
+    ]
+  },
+  {
+    "value": "curd",
+    "synonyms": [
+      "curd",
+      "curds"
+    ]
+  }
+]

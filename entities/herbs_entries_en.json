@@ -1,0 +1,68 @@
+[
+  {
+    "value": "coriander",
+    "synonyms": [
+      "co",
+      "corriandur",
+      "corriunder",
+      "coreander",
+      "kotambri",
+      "kotumbri"
+    ]
+  },
+  {
+    "value": "mint",
+    "synonyms": [
+      "mint",
+      "minth",
+      "pudina"
+    ]
+  },
+  {
+    "value": "parsley",
+    "synonyms": [
+      "parsley",
+      "parslay",
+      "paarsli"
+    ]
+  },
+  {
+    "value": "basil",
+    "synonyms": [
+      "basil"
+    ]
+  },
+  {
+    "value": "curry leaves",
+    "synonyms": [
+      "curry leaves",
+      "curry",
+      "leaves"
+    ]
+  },
+  {
+    "value": "dill",
+    "synonyms": [
+      "dill",
+      "sabbasge",
+      "sabaske"
+    ]
+  },
+  {
+    "value": "fenugreek",
+    "synonyms": [
+      "fenugreek",
+      "methi",
+      "menthe",
+      "menthya"
+    ]
+  },
+  {
+    "value": "spinach",
+    "synonyms": [
+      "spinach",
+      "palak",
+      "paalak"
+    ]
+  }
+]

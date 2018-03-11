@@ -1,0 +1,90 @@
+{
+  "id": "341d6a74-c93d-4f47-89d3-82b18aac96cb",
+  "name": "orderbread",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9c9955ca-e8c2-4998-b68f-d6db4079de17",
+          "required": true,
+          "dataType": "@Bread",
+          "name": "bread",
+          "value": "$5",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "which type of bread are you referring to?"
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "fd25aa5f-6b62-46d4-8341-2c89d69bfc89",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the exact number you are looking for?"
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "f2632b3f-cd42-4345-a551-aec02fcb04cb",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Whats your sweet name ?"
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "cb025e2c-fd4f-453c-ba23-29574fc380e3",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Where should i deliver your order ? :)"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay dear! Your order will be placed soon !"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520501943,
+  "fallbackIntent": false,
+  "events": []
+}

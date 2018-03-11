@@ -1,0 +1,30 @@
+[
+  {
+    "value": "pork",
+    "synonyms": [
+      "pork",
+      "pig",
+      "pig meat"
+    ]
+  },
+  {
+    "value": "beef",
+    "synonyms": [
+      "beef",
+      "cow meat"
+    ]
+  },
+  {
+    "value": "poultry",
+    "synonyms": [
+      "poultry",
+      "chicken"
+    ]
+  },
+  {
+    "value": "lunch meat",
+    "synonyms": [
+      "lunch meat"
+    ]
+  }
+]

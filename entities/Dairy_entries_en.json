@@ -1,0 +1,39 @@
+[
+  {
+    "value": "cheese",
+    "synonyms": [
+      "cheese",
+      "chis",
+      "chiis"
+    ]
+  },
+  {
+    "value": "eggs",
+    "synonyms": [
+      "eggs"
+    ]
+  },
+  {
+    "value": "milk",
+    "synonyms": [
+      "milk",
+      "meelk",
+      "milkh",
+      "mulk"
+    ]
+  },
+  {
+    "value": "yogurt",
+    "synonyms": [
+      "yogurt"
+    ]
+  },
+  {
+    "value": "butter",
+    "synonyms": [
+      "butter",
+      "buttah",
+      "butter"
+    ]
+  }
+]

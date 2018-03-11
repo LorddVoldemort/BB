@@ -1,0 +1,85 @@
+{
+  "id": "44bbd317-31c4-454e-9243-074aff460ba8",
+  "name": "orderbeverages",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5e074798-571e-43e6-9fe3-10751150b9dc",
+          "required": true,
+          "dataType": "@beverages",
+          "name": "beverages",
+          "value": "$beverages",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sure! what exactly do you want to drink ?"
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "57e9abee-aeab-4ffe-88f9-c50d0a7c93fd",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For how many people will you need it ?"
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "7eca76ff-9d67-4000-bceb-05351b04ae7f",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "whats your kind name ?"
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "7073b4cf-0f44-4119-9d83-ecd9ddb1abba",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Where should i deliver it to ?"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "sure! will get your drink within 30 mins!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520500412,
+  "fallbackIntent": false,
+  "events": []
+}

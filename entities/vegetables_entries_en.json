@@ -1,0 +1,167 @@
+[
+  {
+    "value": "tomato",
+    "synonyms": [
+      "tomato",
+      "tomaato",
+      "tamato",
+      "tamaatar",
+      "tomayto",
+      "tometo",
+      "tomaeto"
+    ]
+  },
+  {
+    "value": "potato",
+    "synonyms": [
+      "potato",
+      "potaeto",
+      "potaato",
+      "poteyto"
+    ]
+  },
+  {
+    "value": "carrot",
+    "synonyms": [
+      "carrot",
+      "carott",
+      "carot"
+    ]
+  },
+  {
+    "value": "onion",
+    "synonyms": [
+      "onion",
+      "uniuns",
+      "oneon",
+      "oneons",
+      "onions"
+    ]
+  },
+  {
+    "value": "cauliflower",
+    "synonyms": [
+      "cauliflower",
+      "coliflower",
+      "coliflowah"
+    ]
+  },
+  {
+    "value": "bell peppers",
+    "synonyms": [
+      "bell peppers",
+      "red paprika"
+    ]
+  },
+  {
+    "value": "lettuce",
+    "synonyms": [
+      "lettuce",
+      "litus"
+    ]
+  },
+  {
+    "value": "raddish",
+    "synonyms": [
+      "raddish"
+    ]
+  },
+  {
+    "value": "brussels sprout",
+    "synonyms": [
+      "brussels sprout",
+      "sprouts",
+      "bruseels",
+      "sprout"
+    ]
+  },
+  {
+    "value": "cucumber",
+    "synonyms": [
+      "cucumber",
+      "kukumber",
+      "kukamber",
+      "cucamber",
+      "kukumbar"
+    ]
+  },
+  {
+    "value": "pea",
+    "synonyms": [
+      "pea",
+      "peas",
+      "pee"
+    ]
+  },
+  {
+    "value": "broccoli",
+    "synonyms": [
+      "broccoli",
+      "brokli"
+    ]
+  },
+  {
+    "value": "zucchini",
+    "synonyms": [
+      "zuc",
+      "zukini",
+      "zuchini"
+    ]
+  },
+  {
+    "value": "beans",
+    "synonyms": [
+      "beans",
+      "bins",
+      "beens",
+      "beaan",
+      "bean"
+    ]
+  },
+  {
+    "value": "garlic",
+    "synonyms": [
+      "garlic",
+      "gaarlic",
+      "gharlikh",
+      "garlik"
+    ]
+  },
+  {
+    "value": "turnip",
+    "synonyms": [
+      "turnip"
+    ]
+  },
+  {
+    "value": "beetroot",
+    "synonyms": [
+      "beetroot"
+    ]
+  },
+  {
+    "value": "chilli pepper",
+    "synonyms": [
+      "chilli pepper",
+      "chilli",
+      "green chilli",
+      "chilly"
+    ]
+  },
+  {
+    "value": "maize",
+    "synonyms": [
+      "maize",
+      "corn",
+      "sweet corn"
+    ]
+  },
+  {
+    "value": "mustard beans",
+    "synonyms": [
+      "mustard beans",
+      "mustard",
+      "mustard seeds"
+    ]
+  }
+]

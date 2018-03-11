@@ -1,0 +1,412 @@
+[
+  {
+    "id": "01cd2add-a399-4895-9671-b2c6b51a2cff",
+    "data": [
+      {
+        "text": "Bangalore",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "5fbe0085-45e0-4b43-bedd-b0c984ae7369",
+    "data": [
+      {
+        "text": "my name is ",
+        "userDefined": false
+      },
+      {
+        "text": "raj",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "23bfc995-a87c-4994-be44-a6dbfa05d0af",
+    "data": [
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "soda",
+        "alias": "beverages",
+        "meta": "@beverages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "6b1e620f-dc82-4b01-b044-8931c38220b6",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " glass of ",
+        "userDefined": false
+      },
+      {
+        "text": "soda",
+        "alias": "beverages",
+        "meta": "@beverages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "7299498f-8917-4435-8bfd-8a2297bf1758",
+    "data": [
+      {
+        "text": "i want to have ",
+        "userDefined": false
+      },
+      {
+        "text": "2 cups",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of coffe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "23c5b88b-dec2-4b64-8cd8-9b23f4c6338a",
+    "data": [
+      {
+        "text": "i want to have ",
+        "userDefined": false
+      },
+      {
+        "text": "soda",
+        "alias": "beverages",
+        "meta": "@beverages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "4f591b75-a1fd-42cf-8990-72df87cb6255",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "soda",
+        "alias": "beverages",
+        "meta": "@beverages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "ce8e5d0b-edd6-4689-bda5-959490e84b51",
+    "data": [
+      {
+        "text": "i need ",
+        "userDefined": false
+      },
+      {
+        "text": "juice",
+        "alias": "beverages",
+        "meta": "@beverages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "aa075a11-4a54-49a0-8b85-f8dceec240a4",
+    "data": [
+      {
+        "text": "can i get some ",
+        "userDefined": false
+      },
+      {
+        "text": "juice",
+        "alias": "beverages",
+        "meta": "@beverages",
+        "userDefined": false
+      },
+      {
+        "text": " yo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "d591cf23-6f84-479b-9c39-2d245dbc132f",
+    "data": [
+      {
+        "text": "do you guys have ",
+        "userDefined": false
+      },
+      {
+        "text": "juice",
+        "alias": "beverages",
+        "meta": "@beverages",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "91a27e20-195e-46b1-878c-1d590f42dd06",
+    "data": [
+      {
+        "text": "do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "e078498f-4564-4ec5-adf1-6f5cd3db36db",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "ad9a0f40-3561-40a5-94de-669ea1329704",
+    "data": [
+      {
+        "text": "can i have some ",
+        "userDefined": false
+      },
+      {
+        "text": "tea",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "a0eb0cff-0d9d-4666-aeb7-a772be167dc8",
+    "data": [
+      {
+        "text": "i want coffeeeeee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "c33d4fcf-4208-4c1b-8a90-89ae51909659",
+    "data": [
+      {
+        "text": "do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "tea",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "7bd0fc10-770b-40d3-9021-f5fa1ad7b7d6",
+    "data": [
+      {
+        "text": "hey gimme some beverages no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "6c042216-ed33-43e2-927e-bb1ed849401d",
+    "data": [
+      {
+        "text": "what all beverages do you have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "03c3ffa1-767b-44ec-9aa3-6e87bcd3fb03",
+    "data": [
+      {
+        "text": "i wanna order a beverage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "22ec4c31-4254-4905-9d8b-c93ad1a7cd42",
+    "data": [
+      {
+        "text": "i wanna order something to drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "66c0fb7e-3ddb-4d7e-ad5b-a779e181d240",
+    "data": [
+      {
+        "text": "i wanna order beverages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "9e54d74d-8e62-4879-8ac2-59a2edfe9b3e",
+    "data": [
+      {
+        "text": "what can i get to drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "48231c75-3780-425b-b923-e28a016077e9",
+    "data": [
+      {
+        "text": "i wanna quench my thirst",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "2edb28f1-6fb4-4568-b248-d15be8026022",
+    "data": [
+      {
+        "text": "i wanna drink something hot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "011eade2-8241-456c-a73e-6970fe88bf7e",
+    "data": [
+      {
+        "text": "i wanna drink something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  },
+  {
+    "id": "e766eaac-28b1-4bec-934a-0c79fbeaa3ed",
+    "data": [
+      {
+        "text": "i want something cool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520500412
+  }
+]

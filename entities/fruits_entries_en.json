@@ -1,0 +1,56 @@
+[
+  {
+    "value": "apple",
+    "synonyms": [
+      "apple",
+      "sebu",
+      "seb",
+      "appal",
+      "apill"
+    ]
+  },
+  {
+    "value": "banana",
+    "synonyms": [
+      "banana"
+    ]
+  },
+  {
+    "value": "orange",
+    "synonyms": [
+      "orange",
+      "orenge"
+    ]
+  },
+  {
+    "value": "pineapple",
+    "synonyms": [
+      "pineapple",
+      "pynaepal"
+    ]
+  },
+  {
+    "value": "cherry",
+    "synonyms": [
+      "cherry"
+    ]
+  },
+  {
+    "value": "blueberyy",
+    "synonyms": [
+      "blueberyy"
+    ]
+  },
+  {
+    "value": "gauava",
+    "synonyms": [
+      "gauava"
+    ]
+  },
+  {
+    "value": "kivi fruit",
+    "synonyms": [
+      "kivi fruit"
+    ]
+  }
+]

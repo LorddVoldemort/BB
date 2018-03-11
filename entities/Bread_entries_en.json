@@ -1,0 +1,45 @@
+[
+  {
+    "value": "sandwich loaves",
+    "synonyms": [
+      "sandwich loaves",
+      "sandwich bread",
+      "sandwich sub"
+    ]
+  },
+  {
+    "value": "bagels",
+    "synonyms": [
+      "bagels"
+    ]
+  },
+  {
+    "value": "doughnut",
+    "synonyms": [
+      "doughnut",
+      "donut"
+    ]
+  },
+  {
+    "value": "rolls",
+    "synonyms": [
+      "rolls",
+      "rolll",
+      "roll"
+    ]
+  },
+  {
+    "value": "bakery",
+    "synonyms": [
+      "bakery",
+      "bakari"
+    ]
+  },
+  {
+    "value": "pizza base",
+    "synonyms": [
+      "pizza base",
+      "pizza bread"
+    ]
+  }
+]

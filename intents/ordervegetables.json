@@ -1,0 +1,90 @@
+{
+  "id": "09d574cd-2fd7-4c11-b0e9-cb98d2612ed8",
+  "name": "ordervegetables",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ac3d9d6c-aca5-4701-bdbd-faa5e6974e68",
+          "required": true,
+          "dataType": "@sys.unit-weight",
+          "name": "unit-weight",
+          "value": "$unit-weight",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "what is the quantity you are looking for?"
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "b7a73873-867c-4956-8a43-ddf7e9f601af",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "what is your sweet name ?"
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "edd331b8-6c23-49e1-9995-82a5fdd6cbfb",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Where should i deliver it to?"
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "2167c820-43f8-4acc-9582-2e1f39ce0baf",
+          "required": true,
+          "dataType": "@vegetables",
+          "name": "vegetables",
+          "value": "$vegetables",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sure! will place your order right away :)"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Placing your order!"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520500626,
+  "fallbackIntent": false,
+  "events": []
+}

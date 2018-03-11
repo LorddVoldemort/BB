@@ -1,0 +1,42 @@
+[
+  {
+    "value": "coffee",
+    "synonyms": [
+      "coffee",
+      "kofi",
+      "kaafi",
+      "caafi",
+      "cofay"
+    ]
+  },
+  {
+    "value": "tea",
+    "synonyms": [
+      "tea",
+      "tche",
+      "tee",
+      "teah",
+      "T",
+      "green tea",
+      "normal tea"
+    ]
+  },
+  {
+    "value": "juice",
+    "synonyms": [
+      "juice",
+      "joose",
+      "jus",
+      "juis",
+      "jyuse"
+    ]
+  },
+  {
+    "value": "soda",
+    "synonyms": [
+      "soda",
+      "soduh",
+      "sodaaa"
+    ]
+  }
+]
